@@ -1,0 +1,13 @@
+{
+    "name": "demo-with-test-framework",
+    "version": "1.0.0",
+    "private": true,
+    "devDependencies": {},
+    "scripts": {
+        "test": "mocha"
+    },
+    "dependencies": {
+        "chai": "^4.1.2",
+        "mocha": "^5.2.0"
+    }
+}
